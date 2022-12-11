@@ -25,6 +25,7 @@ p{
     font-size: 20px;
 }
 
+
 .keys{
     height: 70vh;
     display: flex;
@@ -65,4 +66,12 @@ kbd{
 .key p{
     color: #F6F54D;
     font-size: 14px;
+}
+
+.footer{
+    text-align: center;
+    color: aliceblue;
+}
+.footer a{
+    color: aliceblue;
 }
