@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://kit.fontawesome.com/21f70aa906.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <h1>Random Password Generator</h1>
+    <div class="pass-container">
+      <input class="password" type="text" readonly>
+      <i class="fa-regular fa-copy"></i>
+    </div>
+
+    <div class="cust-container">
+    <h2>Customize your Password</h2>
+    <div class="customize">
+        <div class="checkbox">
+            <input type="checkbox" checked class="uppercase" id=""><label for="uppercase">Uppercase</label>
+        </div>
+        <div class="checkbox">
+            <input type="checkbox" class="lowercase" id=""><label for="lowercase">Lowercase</label>
+        </div>
+        <div class="checkbox">
+            <input type="checkbox" class="numbers" id=""><label for="numbers">Numbers</label>
+        </div>
+        <div class="checkbox">
+            <input type="checkbox" class="symbols" id=""><label for="characters">Symbols</label>
+        </div>
+    </div>
+    <input type="button" value="Submit" class="generate">
+    </div>
+    <div class="copyright">
+        <a href="https://github.com/KunalSalunkhe12/30Days-30Projects-Javascript">30Days-30Projects-Javascript</a>
+        <p>Made by KunalSalunkhe🙋‍♂️</p>
+    </div>
+ 
+<script src="index.js"></script>
+</body>
+</html>

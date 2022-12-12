@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #8758FF;
+    padding: 20px;
+}
+
+h1,h2{
+    text-align: center;
+    color: #F2F2F2;
+    font-weight: 700;
+}
+
+.pass-container{
+    margin: 100px 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.password{
+    background-color: #F2F2F2;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+    width: 25%;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+}
+
+.fa-copy{
+    font-size: 28px;
+    cursor: pointer;
+    color: #F2F2F2;
+}
+
+.clicked{
+    color: #000;
+}
+
+.cust-container{
+    background-color: #5CB8E4;
+    width: 30%;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.customize{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+    
+}
+
+.checkbox label{
+    color: rgb(47, 46, 46);
+    padding-left: 3px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.checkbox input{
+    cursor: pointer;
+}
+
+.generate{
+    display: block;
+    margin: auto;
+    background-color: #301c62;
+    color: #F2F2F2;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.generate:hover{
+    background-color: rgb(49, 49, 49);
+    transform: scale(1.02);
+}
+
+.copyright{
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
