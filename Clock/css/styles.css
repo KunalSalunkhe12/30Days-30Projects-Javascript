@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-image: linear-gradient(#FAEAB1, #FAF8F1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+.clock{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 19px solid #C58940;
+    position: relative;
+
+}
+
+.clock .number{
+    font-size: 25px;
+    font-weight: 700;
+    --rotation: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    transform: rotate(var(--rotation));
+}
+
+.clock .number1{--rotation: 30deg;}
+.clock .number2{--rotation: 60deg;}
+.clock .number3{--rotation: 90deg;}
+.clock .number4{--rotation: 120deg;}
+.clock .number5{--rotation: 150deg;}
+.clock .number6{--rotation: 180deg;}
+.clock .number7{--rotation: 210deg;}
+.clock .number8{--rotation: 240deg;}
+.clock .number9{--rotation: 270deg;}
+.clock .number10{--rotation: 300deg;}
+.clock .number11{--rotation: 330deg;}
+
+.clock .hand{
+    --rotation: 0;
+    z-index: 10;
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    background-color: #C58940;
+    transform-origin: bottom;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    transform: translateX(-50%) rotate(calc(var(--rotation) * 1deg));
+}
+
+.center{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    position: absolute;
+    left: 50.5%;
+    top: 50%;
+    background-color: #C58940;
+    z-index: 11;
+    transform: translate(-50% , -50%);
+}
+
+.clock .hand.hr{
+    height: 30%;
+    width: 10px;
+}
+
+.clock .hand.mn{
+    height: 40%;
+    width: 7px;
+}
+
+.clock .hand.sc{
+    height: 45%;
+    width: 2px;
+    background-color: red;
+}
+
+.clock .brand{
+    position: absolute;
+    left: 50%;
+    bottom: 20%;
+    transform: translate(-50%);
+    color: #C58940;
+    font-weight: 800;
+}
+
+.copyright{
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
