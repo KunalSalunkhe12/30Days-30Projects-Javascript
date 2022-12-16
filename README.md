@@ -1,7 +1,7 @@
 
 # 30 Days Of JavaScript  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-A Static One page Nvidia Clone Created Using HTML & CSS.
+30 projects using Javascript created in 30 days.
 
 
 ## View live Demo
