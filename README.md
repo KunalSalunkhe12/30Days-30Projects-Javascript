@@ -9,10 +9,11 @@
 | Day |                                                      Name                                                 |
 | --- | :-------------------------------------------------------------------------------------------------:       |
 | 1   |                   [Drum Kit](https://kunalsalunkhe12-drumkit.netlify.app)                                 |
-| 2   | [Random Password Generator](https://kunalsalunkhe12-passwordgenerator.netlify.app)                        |
-| 3   |                       [Clock](https://kunalsalunkhe12-clock.netlify.app)                                  |
-| 4   |    [Random Color Generator](https://kunalsalunkhe12-colorgenerator.netlify.app)                           |
-| 5   |              [Digital Clock](https://kunalsalunkhe12-digitalclock.netlify.app/)                           |
+| 2   |   [Number Counter](https://kunalsalunkhe12-numbercounter.netlify.app)                                     |
+| 3   | [Random Password Generator](https://kunalsalunkhe12-passwordgenerator.netlify.app)                        |
+| 4   |                       [Clock](https://kunalsalunkhe12-clock.netlify.app)                                  |
+| 5   |    [Random Color Generator](https://kunalsalunkhe12-colorgenerator.netlify.app)                           |
+| 6   |              [Digital Clock](https://kunalsalunkhe12-digitalclock.netlify.app/)                           |
 
 
 
