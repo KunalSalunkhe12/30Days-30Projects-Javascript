@@ -14,6 +14,7 @@
 | 4   |                       [Clock](https://kunalsalunkhe12-clock.netlify.app)                                  |
 | 5   |    [Random Color Generator](https://kunalsalunkhe12-colorgenerator.netlify.app)                           |
 | 6   |              [Digital Clock](https://kunalsalunkhe12-digitalclock.netlify.app/)                           |
+| 7   |              [Color Picker](https://kunalsalunkhe12-colorpicker.netlify.app/)                             |
 
 
 
@@ -22,5 +23,3 @@
 ## Tech Stack ⚙️
 
 HTML CSS JS
-
-
