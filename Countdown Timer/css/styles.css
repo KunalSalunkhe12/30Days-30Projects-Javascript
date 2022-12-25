@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #BAD7E9;
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex-container{
+    text-align: center;
+    height: 100vh;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2B3467;
+    margin: 5rem 0;
+}
+
+h2{
+    color: #fff;
+}
+
+.units{
+    display:flex;
+    justify-content: center;
+    gap: 3.5rem;
+    font-size: 1.5rem;
+    font-weight: 800;
+
+}
+
+
+.clock-container{
+    height: 10rem;
+    width: 22rem;
+    padding: 20px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: #F1F1F1;
+    /* box-shadow: 3px 8px 6px #000; */
+}
+
+.clock{
+    height: 80%;
+    width: 50%;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fff;
+    background-color: #4655a7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-direction: column;
+    border: 1px solid #000;
+    border-radius: 20px;
+    /* box-shadow: 3px 8px 6px #000; */
+
+}
+
+.clock button{
+    width: 50%;
+    border-radius: 10rem;
+    background-color: #BAD7E9;
+    font-size: 2rem;
+    font-weight: 700;
+    border: 0;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+.clock button:hover{
+    background-color: #000;
+    color: #BAD7E9;
+}
+
+.mainBtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    gap: 2rem
+}
+
+.mainBtn button{
+    background-color: #F1F1F1;
+    color: #4655a7;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    transition: 0.3s;
+    cursor: pointer;
+    box-shadow: 3px 8px 6px #000;
+}
+
+.mainBtn button:hover{
+    transform: scale(1.05);
+    background-color: #000;
+    color: #BAD7E9;
+}
+
+
+.copyright{
+    position: absolute;
+    width: 100%;
+    bottom: 2%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%);
+} 
