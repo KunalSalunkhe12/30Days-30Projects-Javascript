@@ -1,0 +1,110 @@
+body{
+    background-color: #899499;
+}
+
+
+.navbar-brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+.todo-container{
+    color: #36454F;
+    margin:  20px auto;
+    padding: 20px;
+    border-radius: 20px;
+    width: 50%;
+}
+
+.input-task-container{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.input-task-container button{
+    border: 0;
+    background-color: #36454F;
+    margin-left: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.input-task-container button:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+
+
+.input-task{
+    background-color: #36454F;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    padding: 5px 12px;
+    color: #fff;
+    width: 60%;
+}
+
+.task-list-container{
+    margin-top: 50px;
+
+}
+
+.task-list{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.task-list-item{
+    background-color: #36454F;
+    width: 70%;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    padding: 5px 12px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.task-list-item-edit{
+    color: #39FF14;
+}
+
+.btn-edit{
+    background-color: #36454F;
+    border: 0;
+    color: #39FF14;
+    margin: 0 20px 0;
+    transition: 0.3s;
+}
+
+.btn-edit:hover{
+    background-color: #39FF14;
+    color: #fff;
+}
+
+.btn-delete{
+    background-color: #36454F;
+    border: 0;
+    color: #FF3131;
+    transform: 0.3;
+}
+
+.btn-delete:hover{
+    background-color: #FF3131;
+    color: #fff;
+
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .todo-container{
+      width: 100%;  
+    } 
+    
+}

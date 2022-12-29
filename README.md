@@ -17,6 +17,7 @@
 | 9   |        [Joke Generator](https://kunalsalunkhe12-jokegenerator.netlify.app/)        |
 | 10  |       [Countdown Timer](https://kunalsalunkhe12-countdowntimer.netlify.app/)       |
 | 11  |    [Text Speed Control](https://kunalsalunkhe12-textspeedcontrol.netlify.app/)     |
+| 12  |             [Todo List](https://kunalsalunkhe12-todolist.netlify.app/)             |
 
 ## Tech Stack ⚙️
 
