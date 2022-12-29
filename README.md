@@ -18,6 +18,7 @@
 | 10  |       [Countdown Timer](https://kunalsalunkhe12-countdowntimer.netlify.app/)       |
 | 11  |    [Text Speed Control](https://kunalsalunkhe12-textspeedcontrol.netlify.app/)     |
 | 12  |             [Todo List](https://kunalsalunkhe12-todolist.netlify.app/)             |
+| 13  |            [Stopwatch](https://kunalsalukhe12-stopwatch.netlify.app/))             |
 
 ## Tech Stack ⚙️
 
