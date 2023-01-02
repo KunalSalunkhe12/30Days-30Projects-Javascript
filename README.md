@@ -20,7 +20,8 @@
 | 12  |             [Todo List](https://kunalsalunkhe12-todolist.netlify.app/)             |
 | 13  |             [Stopwatch](https://kunalsalukhe12-stopwatch.netlify.app/)             |
 | 14  |        [Traffic Lights](https://kunalsalunkhe12-trafficlights.netlify.app/)        |
-| 15  |       [Levitate Board](https://kunalsalunkhe12-levitateboard.netlify.app/))        |
+| 15  |        [Levitate Board](https://kunalsalunkhe12-levitateboard.netlify.app/)        |
+| 16  |            [Ripple Effect](https://kunalsalunkhe12-ripple.netlify.app/)            |
 
 ## Tech Stack ⚙️
 
