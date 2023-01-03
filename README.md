@@ -22,6 +22,7 @@
 | 14  |        [Traffic Lights](https://kunalsalunkhe12-trafficlights.netlify.app/)        |
 | 15  |        [Levitate Board](https://kunalsalunkhe12-levitateboard.netlify.app/)        |
 | 16  |            [Ripple Effect](https://kunalsalunkhe12-ripple.netlify.app/)            |
+| 17  |           [Zoom Effect](https://kunalsalunkhe12-zoomeffect.netlify.app/)           |
 
 ## Tech Stack ⚙️
 
