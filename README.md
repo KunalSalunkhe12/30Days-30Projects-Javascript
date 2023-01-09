@@ -23,7 +23,8 @@
 | 15  |        [Levitate Board](https://kunalsalunkhe12-levitateboard.netlify.app/)        |
 | 16  |            [Ripple Effect](https://kunalsalunkhe12-ripple.netlify.app/)            |
 | 17  |           [Zoom Effect](https://kunalsalunkhe12-zoomeffect.netlify.app/)           |
-| 18  |           [Word Counter](https://kunalsalunkhe12-wordcounter.netlify.app/)           |
+| 18  |          [Word Counter](https://kunalsalunkhe12-wordcounter.netlify.app/)          |
+| 19  |           [Weather App](https://kunalsalunkhe12-weatherapp.netlify.app/)           |
 
 ## Tech Stack ⚙️
 
