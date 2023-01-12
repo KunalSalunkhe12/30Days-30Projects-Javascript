@@ -27,6 +27,7 @@
 | 19  |           [Weather App](https://kunalsalunkhe12-weatherapp.netlify.app/)           |
 | 20  |           [Calculator](https://kunalsalunkhe12-calculator.netlify.app/)            |
 | 21  |    [Memory Matching Game](https://kunalsalunkhe12-memorymatching.netlify.app/)     |
+| 22  |            [TicTacToe](https://kunalsalunkhe12-tictactoe.netlify.app/)             |
 
 ## Tech Stack ⚙️
 
