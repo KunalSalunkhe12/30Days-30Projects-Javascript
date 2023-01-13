@@ -28,6 +28,7 @@
 | 20  |           [Calculator](https://kunalsalunkhe12-calculator.netlify.app/)            |
 | 21  |    [Memory Matching Game](https://kunalsalunkhe12-memorymatching.netlify.app/)     |
 | 22  |            [TicTacToe](https://kunalsalunkhe12-tictactoe.netlify.app/)             |
+| 23  |       [Infinite Scroll](https://kunalsalunkhe12-infinitescroll.netlify.app/)       |
 
 ## Tech Stack ⚙️
 
