@@ -22,18 +22,17 @@ const timeUpdate = () => {
     if (timer === true) {
         msec++
         msc.innerHTML = msec.toString().padStart(2, '0');
-        if (msec == 100) {
+        if (msec == 99) {
             sec++
             sc.innerHTML = sec.toString().padStart(2, '0');
-            sc.innerHTML.padStart(2, '0')
             msec = 0;
         }
-        if (sec == 60) {
+        if (sec == 59) {
             min++
             mn.innerHTML = min.toString().padStart(2, '0');
             sec = 0;
         }
-        if (min == 60) {
+        if (min == 59) {
             hour++
             hr.innerHTML = hour.toString().padStart(2, '0');
             min = 0;

@@ -29,6 +29,7 @@
 | 21  |    [Memory Matching Game](https://kunalsalunkhe12-memorymatching.netlify.app/)     |
 | 22  |            [TicTacToe](https://kunalsalunkhe12-tictactoe.netlify.app/)             |
 | 23  |       [Infinite Scroll](https://kunalsalunkhe12-infinitescroll.netlify.app/)       |
+| 24  |          [Shift Cipher](https://kunalsalunkhe12-shiftcipher.netlify.app/)          |
 
 ## Tech Stack ⚙️
 
