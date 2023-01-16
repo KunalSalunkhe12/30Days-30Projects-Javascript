@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon">
+
+    <script src="https://kit.fontawesome.com/d409871963.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="cover-img-container">
+            <img src="./images/faded.png" alt="cover-img" class="cover-img">
+        </div>
+        <div class="song-name"></div>
+        <div class="song-artist"></div>
+
+        <audio class="current-song" src="./music/Faded.mp3"></audio>
+        
+        <div class="slider-container">
+            <input type="range" name="slider" id="slider-bar" value="0" min="0" max="100">
+        </div>
+        <div class="btn-container">
+            <i class="fa-solid fa-backward backward-btn"></i>
+            <i class="fa-solid fa-circle-play play-btn"></i>
+            <i class="fa-solid fa-forward forward-btn"></i>
+        </div>
+    </div>
+    <div class="copyright">
+        <a href="https://github.com/KunalSalunkhe12/30Days-30Projects-Javascript">30Days-30Projects-Javascript</a>
+        <p>Made by KunalSalunkhe🙋‍♂️</p>
+    </div>
+
+    <script src="./index.js"></script>
+</body>
+
+</html>
