@@ -31,6 +31,7 @@
 | 23  |       [Infinite Scroll](https://kunalsalunkhe12-infinitescroll.netlify.app/)       |
 | 24  |          [Shift Cipher](https://kunalsalunkhe12-shiftcipher.netlify.app/)          |
 | 25  |          [Music Player](https://kunalsalunkhe12-musicplayer.netlify.app/)          |
+| 26  |          [Hangman Game](https://kunalsalunkhe12-hangmangame.netlify.app/)          |
 
 ## Tech Stack ⚙️
 
