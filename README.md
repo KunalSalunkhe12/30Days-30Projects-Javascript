@@ -32,6 +32,7 @@
 | 24  |          [Shift Cipher](https://kunalsalunkhe12-shiftcipher.netlify.app/)          |
 | 25  |          [Music Player](https://kunalsalunkhe12-musicplayer.netlify.app/)          |
 | 26  |          [Hangman Game](https://kunalsalunkhe12-hangmangame.netlify.app/)          |
+| 27  |   [Domain Availability](https://kunalsalunkhe12-domainavailability.netlify.app/)   |
 
 ## Tech Stack ⚙️
 
