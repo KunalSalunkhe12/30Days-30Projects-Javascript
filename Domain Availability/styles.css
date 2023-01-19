@@ -61,13 +61,10 @@ body {
     transform: rotate(360deg);
   }
 }
-.main{
-    display: none;
-    margin-top: 2rem;
-}
+
 
 .details-container {
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
 }
