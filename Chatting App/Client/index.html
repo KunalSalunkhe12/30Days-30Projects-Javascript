@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Me- A real time Chat Application</title>
+
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="shortcut icon" href="images/talking.png" type="image/x-icon">
+
+    <script defer src="https://kunalsalunkhe-chattingapp-server.onrender.com/socket.io/socket.io.js"></script>
+    <script defer src="./index.js"></script>
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <img class="app-logo" src="./images/talking.png" alt="">
+            <h1 class="app-name">Chat Me!</h1>
+        </nav>
+    </header>
+    <main>
+        <div class="user-container">
+            <div class="invite-container">
+                <h2>Invite-Link</h2>
+                <input class="invite-link" type="text" value="https://kunalsalunkhe12-chattingapp.netlify.app/" readonly>
+                <button class="btn copy-btn">Copy</button>
+            </div>
+            <form class="user-form">
+                <label for="user-input">Enter your name</label>
+                <input type="text" class="user-input">
+                <button class="btn user-btn">Enter</button>
+            </form>
+        </div>
+        <div class="chat-container">
+            <div class="msg-container">
+                 
+            </div>
+            <div class="send-container">
+                <form class="send-form">
+                    <input type="text" name="" class="msg-input">
+                    <button class="btn msg-send-btn">Send</button>
+                </form>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <a class="copyright" href="https://www.linkedin.com/in/kunal-salunkhe12/">@kunalsalunkhe12</a>
+    </footer>
+</body>
+
+</html>
