@@ -30,9 +30,9 @@ p{
     height: 70vh;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     align-items: center;
-    gap: 30px;
-
+    gap: 1.5rem;
 }
 
 .key{
