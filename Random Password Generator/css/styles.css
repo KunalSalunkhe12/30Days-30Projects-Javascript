@@ -30,10 +30,11 @@ h1,h2{
     font-size: 30px;
     text-align: center;
     padding: 5px;
-    width: 25%;
+    width: 20rem;
     height: 45px;
     border: none;
     border-radius: 10px;
+    outline: none;
 }
 
 .fa-copy{
@@ -48,7 +49,7 @@ h1,h2{
 
 .cust-container{
     background-color: #5CB8E4;
-    width: 30%;
+    width: 35rem;
     padding: 20px;
     margin: 50px auto;
     border-radius: 20px;
@@ -56,7 +57,7 @@ h1,h2{
 
 .customize{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     gap: 15px;
     margin: 30px 0;
     
@@ -69,8 +70,11 @@ h1,h2{
     font-weight: 500;
 }
 
-.checkbox input{
+.checkbox > input{
     cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
 }
 
 .generate{
@@ -103,3 +107,14 @@ h1,h2{
     flex-direction: column;
 }
 
+@media screen and (max-width: 750px) { 
+    .cust-container {
+      width: 20rem;
+      margin: auto;
+    }
+
+    .customize{
+        flex-direction: column;
+        align-items: center;
+    }
+}
